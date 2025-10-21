@@ -1,0 +1,43 @@
+Tue, 21 Oct 2025 19:41:21 GMT
+1761075681:22:41:21
+----------------------------------------------------------------------------------------------------
+Tue, 21 Oct 2025 19:42:19 GMT
+1761075739 | 22:42:19
+----------------------------------------------------------------------------------------------------
+Tue, 21 Oct 2025 19:49:28 GMT
+{time:"22:49:28",pgmSourceNum:123,pgmSourceName:"Cam-1"}}
+----------------------------------------------------------------------------------------------------
+Tue, 21 Oct 2025 19:49:45 GMT
+{time:"22:49:45",pgmSourceNum:123,pgmSourceName:"Cam-1"}}
+----------------------------------------------------------------------------------------------------
+Tue, 21 Oct 2025 19:52:00 GMT
+{time:"22:52:00",pgmSourceNum:123,pgmSourceName:"Cam-1"}
+----------------------------------------------------------------------------------------------------
+Tue, 21 Oct 2025 19:53:44 GMT
+{"time":"22:53:43","pgmSrcNum":123,"pgmSrcName":"Cam-1"}
+----------------------------------------------------------------------------------------------------
+Tue, 21 Oct 2025 19:53:54 GMT
+{"time":"22:53:54","pgmSrcNum":123,"pgmSrcName":"Cam-1"}
+----------------------------------------------------------------------------------------------------
+Tue, 21 Oct 2025 19:55:59 GMT
+[object Object]
+----------------------------------------------------------------------------------------------------
+Tue, 21 Oct 2025 19:56:06 GMT
+[object Object]
+----------------------------------------------------------------------------------------------------
+Tue, 21 Oct 2025 19:56:08 GMT
+[object Object]
+----------------------------------------------------------------------------------------------------
+Tue, 21 Oct 2025 20:02:51 GMT
+[object Object]
+----------------------------------------------------------------------------------------------------
+Tue, 21 Oct 2025 20:02:53 GMT
+[object Object]
+----------------------------------------------------------------------------------------------------
+Tue, 21 Oct 2025 20:02:59 GMT
+[object Object]
+----------------------------------------------------------------------------------------------------
+Tue, 21 Oct 2025 20:03:20 GMT
+[object Object]
+----------------------------------------------------------------------------------------------------
+23:06:59: PGM Cut to Cam-1 (Input number: 123)23:07:08: PGM Cut to Cam-1 (Input number: 123)23:07:33 - PGM Cut to Cam-1 (Input number: 123)23:07:35 - PGM Cut to Cam-1 (Input number: 123)23:07:37 - PGM Cut to Cam-1 (Input number: 123)23:07:38 - PGM Cut to Cam-1 (Input number: 123)23:08:56 - PGM Cut to Cam-1 (Input number: 56)23:09:03 - PGM Cut to Cam-1 (Input number: 03)23:09:05 - PGM Cut to Cam-1 (Input number: 05)23:09:07 - PGM Cut to Cam-1 (Input number: 07)23:09:29 - PGM Cut to Cam-1 (Input number: 29)23:09:30 - PGM Cut to Cam-1 (Input number: 30)23:10:08 - PGM Cut to Cam-1 (Input number: 08)23:10:10 - PGM Cut to Cam-1 (Input number: 10)23:10:13 - PGM Cut to Cam-1 (Input number: 13)23:10:14 - PGM Cut to Cam-1 (Input number: 14)23:10:19 - PGM Cut to Cam-1 (Input number: 19)23:10:19 - PGM Cut to Cam-1 (Input number: 19)23:10:21 - PGM Cut to Cam-1 (Input number: 21)23:10:23 - PGM Cut to Cam-1 (Input number: 23)23:10:23 - PGM Cut to Cam-1 (Input number: 23)23:10:23 - PGM Cut to Cam-1 (Input number: 23)23:10:23 - PGM Cut to Cam-1 (Input number: 23)23:10:23 - PGM Cut to Cam-1 (Input number: 23)23:10:24 - PGM Cut to Cam-1 (Input number: 24)23:10:24 - PGM Cut to Cam-1 (Input number: 24)23:10:24 - PGM Cut to Cam-1 (Input number: 24)23:18:40 - PGM Cut to Cam-1 (Input number: 40)23:18:41 - PGM Cut to Cam-1 (Input number: 41)23:19:23 - PGM Cut to Cam-1 (Input number: 23)23:19:24 - PGM Cut to Cam-1 (Input number: 24)23:19:43 - PGM Cut to Cam-1 (Input number: 43)23:19:44 - PGM Cut to Cam-1 (Input number: 44)23:24:01 - PGM Cut to Cam-1 (Input number: 01)23:24:02 - PGM Cut to Cam-1 (Input number: 02)
