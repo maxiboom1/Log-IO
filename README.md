@@ -1,7 +1,5 @@
 # Logger POC (Bitfocus Companion → HTTP → EXE)
 
-> **Status:** initial template POC — meant to grow as requirements evolve.
-
 A tiny HTTP listener that receives event payloads (from **Bitfocus Companion** or any HTTP client) and writes daily log files. Built with Node.js/TypeScript and packaged into a single **Windows `.exe`** (no Node runtime required).
 
 ## What it does
@@ -15,12 +13,6 @@ A tiny HTTP listener that receives event payloads (from **Bitfocus Companion** o
   ```
   If missing/invalid, defaults to port **4000**.
 
-## Requirements (PC that runs the EXE)
-
-- Windows 10/11 x64.
-- No external dependencies (Node.js not required).  
-- Allow inbound traffic on the configured port (e.g., **4000**) in Windows Defender Firewall.
-- (If using Companion) **Bitfocus Companion 2.5+** with **Generic HTTP** module.
 
 ## Run (EXE)
 
@@ -39,11 +31,8 @@ curl "http://127.0.0.1:4000/api/register/%7B%22time%22%3A%2200%3A17%3A27%22%2C%2
 - **Module:** Generic HTTP (v2.5+)
 - **Action:** HTTP: GET
 - **URL:** `http://<PC-IP>:<PORT>/api/register/{"time":"$(internal:time_hms)","pgmSrcNum":"$(internal:time_s)","pgmSrcName":"Cam-1"}`  
-  *(Companion will URL‑encode the JSON path automatically. No extra headers needed.)*
 
-In production, swap the variables for your ATEM values, e.g. `$(atem:pgm_input)` and `$(atem:source_name_xyz)`
-
-## Dev mode (optional)
+## Scripts
 
 ```bash
 npm i
