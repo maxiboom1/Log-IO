@@ -9,5 +9,13 @@ const server = express();
 server.use("/api", dataRoutes);
 server.use(routeNotFound);
 server.use(catchAll);
+console.log(`-------------------------------------------------------------------------`);
+console.log(`[SYSTEM] Super-Logger, App Version: ${appConfig.version}, Created By I/O Systems, Alex.`);
+console.log(`[SYSTEM] Now loading...`);
+console.log(`[SYSTEM] Valid expected message example:`);
+console.log(`[SYSTEM] ${JSON.stringify(appConfig.exampleMessage)}`);
 
-server.listen(appConfig.port, () => console.log("Listening on http://localhost:" + appConfig.port));
+console.log(`-------------------------------------------------------------------------\n`);
+
+
+server.listen(appConfig.port, () => console.log("[SYSTEM]Listening on http://localhost:" + appConfig.port));

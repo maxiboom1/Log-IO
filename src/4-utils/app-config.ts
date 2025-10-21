@@ -11,6 +11,8 @@ const CONFIG_PATH = path.join(rootDir, "config.json");
 class AppConfig {
   // Defaults
   public port = 4000;
+  public version = "1.0";
+  public exampleMessage = {time:"$(internal:time_hms)",pgmSrcNum:10,pgmSrcName:"Cam-1"}
 }
 
 const appConfig = new AppConfig();
