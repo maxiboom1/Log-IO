@@ -6,7 +6,7 @@
       "start": "node dist/src/app.js",
       "dev": "nodemon --exec ts-node app.ts",
       "build": "tsc",
-      "package:win": "pkg . --targets node18-win-x64 --output build/logger.exe"
+      "package:win": "pkg . --targets node18-win-x64 --output build/Super-Logger.exe"
     },
     "keywords": [],
     "author": "",
